@@ -1,0 +1,65 @@
+.container {
+    width: 1170px;
+    outline: 2px solid red;
+    margin: 0 auto;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    outline: 2px solid purple;
+    display: flex;
+
+}
+.menu-list {
+    display: flex;
+    gap: 30px;
+}
+.contacts-list{
+    display: flex; 
+    gap: 30px;
+    margin-left: auto;
+}
+.section-hero {
+    outline: 2px solid rgb(10, 218, 34);
+    text-align: center;
+}
+.section-features {
+    outline: 2px solid sandybrown ;
+}
+.features-list {
+display: flex;
+outline: 2px solid gold;
+padding: 5px;
+gap: 5px;
+}
+.features-item {
+outline: 2px solid rgb(74, 8, 206)
+
+
+}
+.section-what-we-do {
+    outline: 2px solid rgb(218, 12, 136) ;
+    
+}
+.section-title { 
+    text-align: center;
+
+}
+.what-we-do-list {
+    display: flex;
+    padding-left: 0;
+    gap: 30px;
+}
+
+
+.section-our-team {
+    outline: 2px solid rgb(74, 8, 206);
+}
+.footer {
+    outline: 2px solid yellow ;
+}
